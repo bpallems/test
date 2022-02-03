@@ -1,3 +1,3 @@
-#Thu, 03 Feb 2022 19:28:16 +0530
+#Thu, 03 Feb 2022 21:03:09 +0530
 
-version.number=22.2.0.5
+version.number=22.2.0.6
